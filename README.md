@@ -22,7 +22,7 @@
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
-💻 Portfolio Project **[Abhiraj Patel - Portfolio](https://app.netlify.com/sites/tranquil-brigadeiros-2e9dec/overview)**
+💻 Portfolio Project **[Abhiraj Patel - Portfolio](https://tranquil-brigadeiros-2e9dec.netlify.app/)**
 
 💬 Ask me about **HTML,CSS,JavaScript,React,Node JS,Express JS, MongoDB,Mongoose JS,Data Structure and Algorithm**
 
